@@ -80,5 +80,30 @@ To create a Road Accident Dashboard for year 2021 and 2022 so that they can have
 5. Casualities by Road Type for current year
 6. Current Year Casualities by Area/Location and by Day/Night
 7. Total casualities and Total Accidieents by Location
+
+## STAKEHOLDERS
+1. Ministry of Transport
+2. Road Transport Department
+3. Police Force
+4. Emergency Services Department
+5. Road Safety Corps
+6. Transport Operators
+7. Traffic Management Agencies
+8. Public
+9. Media
+
+## POWER BI FUNCTIONALITIES
+1. How to connect to raw/flat file
+2. Data Cleaning in Power Query
+3. Data Processing
+4. Time Intelligence Function/ Calendar Date Table in POWER BI
+5. Data Modelling (Relationship between multiple tables)
+6. YTD and YOY Growth Calculations Using DAX
+7. KPI and Advanced KPI Generations
+8. Creating Custom columns and measure in the reports
+9. Importing images
+10. Creating different charts and Generating Insights
+11. Export the report to users
+
 ## PROBLEM STATEMENT
 A. KPI’s
