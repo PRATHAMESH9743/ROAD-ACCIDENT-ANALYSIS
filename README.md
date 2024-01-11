@@ -50,5 +50,25 @@ POWER BI
 By combining the analytical capabilities of Power BI with comprehensive road accident data, this project seeks to contribute to the ongoing efforts to enhance road safety and mitigate the impact of accidents on society.
 This project delves deep into the realm of data analysis, utilizing SQL and Power BI to uncover crucial insights into Pizza sales. The featured eye-catching dashboards aid the pizza business in making informed decisions and strategic workforce planning, providing substantial benefits to the business.
 
+## STEPS IN PROJECT
+1.Requirement Gathering
+
+2.Stakeholders in project
+
+3.Raw Data Overview
+
+4.Connecting Data with POWER BI
+
+5.Data Cleaning
+
+6.Data Processing
+
+7.Data Modelling
+
+8.Data Visualization/ Charts Design
+
+9.Reports/ Dashboard Building
+
+10.Insights
 ## PROBLEM STATEMENT
 A. KPI’s
