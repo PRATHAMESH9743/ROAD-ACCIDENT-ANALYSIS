@@ -96,3 +96,8 @@ To create a Road Accident Dashboard for year 2021 and 2022 so that they can have
 10. Creating different charts and Generating Insights
 11. Export the report to users
 
+## CONNECTING TO DATA SOURCE
+![image](https://github.com/PRATHAMESH9743/ROAD-ACCIDENT-ANALYSIS/assets/154798147/e50ff6e8-0cf1-4bab-ba23-c29839ecdc68)
+
+## LOAD THE DATA
+![image](https://github.com/PRATHAMESH9743/ROAD-ACCIDENT-ANALYSIS/assets/154798147/8083adae-1a0e-46f7-a265-3fc52633b6c5)
