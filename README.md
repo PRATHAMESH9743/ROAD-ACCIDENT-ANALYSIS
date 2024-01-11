@@ -101,3 +101,17 @@ To create a Road Accident Dashboard for year 2021 and 2022 so that they can have
 
 ## LOAD THE DATA
 ![image](https://github.com/PRATHAMESH9743/ROAD-ACCIDENT-ANALYSIS/assets/154798147/8083adae-1a0e-46f7-a265-3fc52633b6c5)
+
+
+## DATA CLEANING
+Now select the Entire Accident Severity column, replace the Fetal name in the Accident Severity with Fatal name
+![image](https://github.com/PRATHAMESH9743/ROAD-ACCIDENT-ANALYSIS/assets/154798147/8cdbf9f8-69e0-4286-9b48-f6077bbc1569)
+
+## DATA MODELLING
+CREATING DATE TABLE
+1. To Determinne the Year to Date Casualities
+2. Year on Year Casualities
+In this case we have to use Time Intelligence Function
+![image](https://github.com/PRATHAMESH9743/ROAD-ACCIDENT-ANALYSIS/assets/154798147/0f66d0f2-51af-45b6-94c5-27fabee79aa4)
+
+
