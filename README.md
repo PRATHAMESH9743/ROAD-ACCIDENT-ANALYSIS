@@ -52,26 +52,17 @@ This project delves deep into the realm of data analysis, utilizing SQL and Powe
 
 ## STEPS IN PROJECT
 1.Requirement Gathering
-
 2.Stakeholders in project
-
 3.Raw Data Overview
-
 4.Connecting Data with POWER BI
-
 5.Data Cleaning
-
 6.Data Processing
-
 7.Data Modelling
-
 8.Data Visualization/ Charts Design
-
 9.Reports/ Dashboard Building
-
 10.Insights
 
-## REQUIREMENT 
+## PROBLEM STATEMENT
 To create a Road Accident Dashboard for year 2021 and 2022 so that they can have insight on the below requirements,
 1. Primary KPI - Total Causalities and Total Accident Values for Current Year and YOY Growth
 2. Primary KPI's - Total Causalities by Accident Severity for Current Year and YOY Growth
@@ -105,5 +96,3 @@ To create a Road Accident Dashboard for year 2021 and 2022 so that they can have
 10. Creating different charts and Generating Insights
 11. Export the report to users
 
-## PROBLEM STATEMENT
-A. KPI’s
