@@ -70,5 +70,15 @@ This project delves deep into the realm of data analysis, utilizing SQL and Powe
 9.Reports/ Dashboard Building
 
 10.Insights
+
+## REQUIREMENT 
+To create a Road Accident Dashboard for year 2021 and 2022 so that they can have insight on the below requirements,
+1. Primary KPI - Total Causalities and Total Accident Values for Current Year and YOY Growth
+2. Primary KPI's - Total Causalities by Accident Severity for Current Year and YOY Growth
+3. Second KPI'S - Total Casuality with respect to Vehicle type for Current Year
+4. Monthly trend showing comparision of casualities for current year and previous year
+5. Casualities by Road Type for current year
+6. Current Year Casualities by Area/Location and by Day/Night
+7. Total casualities and Total Accidieents by Location
 ## PROBLEM STATEMENT
 A. KPI’s
