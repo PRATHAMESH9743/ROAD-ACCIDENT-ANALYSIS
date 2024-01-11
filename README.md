@@ -114,4 +114,9 @@ CREATING DATE TABLE
 In this case we have to use Time Intelligence Function
 ![image](https://github.com/PRATHAMESH9743/ROAD-ACCIDENT-ANALYSIS/assets/154798147/0f66d0f2-51af-45b6-94c5-27fabee79aa4)
 
+## BUILDING RELATIONSHIP (ONE TO MANY RELATIONSHIP)
+![image](https://github.com/PRATHAMESH9743/ROAD-ACCIDENT-ANALYSIS/assets/154798147/4bc016bf-3a7b-41da-8cba-ff128ff44209)
+
+
+
 
