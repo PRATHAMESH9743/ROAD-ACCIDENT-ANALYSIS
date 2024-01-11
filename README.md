@@ -117,6 +117,16 @@ In this case we have to use Time Intelligence Function
 ## BUILDING RELATIONSHIP (ONE TO MANY RELATIONSHIP)
 ![image](https://github.com/PRATHAMESH9743/ROAD-ACCIDENT-ANALYSIS/assets/154798147/4bc016bf-3a7b-41da-8cba-ff128ff44209)
 
+## CREATING MEASURES
+Total Current Year Casualities
+![image](https://github.com/PRATHAMESH9743/ROAD-ACCIDENT-ANALYSIS/assets/154798147/03a6c9b6-35ae-498f-b50f-47e8bdadbebf)
+![image](https://github.com/PRATHAMESH9743/ROAD-ACCIDENT-ANALYSIS/assets/154798147/f01ff136-1f19-41e0-8ffb-650a4843ffc5)
+
+Total Current Year Accidents
+![image](https://github.com/PRATHAMESH9743/ROAD-ACCIDENT-ANALYSIS/assets/154798147/0f7960a7-9995-4855-968b-3b9f8c2a2618)
+![image](https://github.com/PRATHAMESH9743/ROAD-ACCIDENT-ANALYSIS/assets/154798147/7db7dde6-70c5-4f68-a39e-be308c5d432a)
+
+
 
 
 
