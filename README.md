@@ -178,3 +178,11 @@ Total Current Year Casualities
 ![image](https://github.com/PRATHAMESH9743/ROAD-ACCIDENT-ANALYSIS/assets/154798147/42c83580-621b-4c01-88a4-3d9f4475c977)
 
 ![image](https://github.com/PRATHAMESH9743/ROAD-ACCIDENT-ANALYSIS/assets/154798147/0fd9b0ff-6e4d-4b45-8cdd-4f7e697ad72c)
+
+
+## Casualities by Light_Conditions 
+
+![image](https://github.com/PRATHAMESH9743/ROAD-ACCIDENT-ANALYSIS/assets/154798147/4abd593e-00d2-49c9-821e-753b73861c7b)
+
+![image](https://github.com/PRATHAMESH9743/ROAD-ACCIDENT-ANALYSIS/assets/154798147/9d6cf9ce-e40c-4188-9e88-98f0e0a768fe)
+
