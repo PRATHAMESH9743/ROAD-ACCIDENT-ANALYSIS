@@ -145,23 +145,33 @@ Total Current Year Casualities
 
 ![image](https://github.com/PRATHAMESH9743/ROAD-ACCIDENT-ANALYSIS/assets/154798147/f01ff136-1f19-41e0-8ffb-650a4843ffc5)
 
-Total Current Year Accidents
+## Total Current Year Accidents
 
 ![image](https://github.com/PRATHAMESH9743/ROAD-ACCIDENT-ANALYSIS/assets/154798147/7db7dde6-70c5-4f68-a39e-be308c5d432a)
 
-Current Year Fatal Casualities
+## Current Year Fatal Casualities
 
 ![image](https://github.com/PRATHAMESH9743/ROAD-ACCIDENT-ANALYSIS/assets/154798147/8e4e4e7e-4603-4419-ac93-a77cabc95ccc)
 
-Current Year Serious Casualities
+## Current Year Serious Casualities
 
 ![image](https://github.com/PRATHAMESH9743/ROAD-ACCIDENT-ANALYSIS/assets/154798147/907e3eed-03b3-48e6-a1a0-d602d2f41010)
 
-Current Year Slight Casualities
+## Current Year Slight Casualities
 
 ![image](https://github.com/PRATHAMESH9743/ROAD-ACCIDENT-ANALYSIS/assets/154798147/8a01c8b6-87c0-4e8a-abf8-606edbeb8261)
 
+## Current Year Casuality Vs Previous Year Casuality Monthly Trend
 
+![image](https://github.com/PRATHAMESH9743/ROAD-ACCIDENT-ANALYSIS/assets/154798147/91f2e1c0-1185-4159-9898-c56549080fca)
+
+![image](https://github.com/PRATHAMESH9743/ROAD-ACCIDENT-ANALYSIS/assets/154798147/173a6a41-ca78-448e-bb4d-e5e0f143f0b4)
+
+## CY Casualities by Urban_or_Rural_Area
+
+![image](https://github.com/PRATHAMESH9743/ROAD-ACCIDENT-ANALYSIS/assets/154798147/aa671bcb-d5fe-406a-a4b6-58426a0a1118)
+
+![image](https://github.com/PRATHAMESH9743/ROAD-ACCIDENT-ANALYSIS/assets/154798147/9e252b7c-e8f6-4de5-ab05-6d78dd654e4d)
 
 
 
