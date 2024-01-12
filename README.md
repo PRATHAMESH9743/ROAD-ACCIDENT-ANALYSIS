@@ -117,6 +117,29 @@ In this case we have to use Time Intelligence Function
 ## BUILDING RELATIONSHIP (ONE TO MANY RELATIONSHIP)
 ![image](https://github.com/PRATHAMESH9743/ROAD-ACCIDENT-ANALYSIS/assets/154798147/4bc016bf-3a7b-41da-8cba-ff128ff44209)
 
+## MEASURES USED
+## CY Casualities = TOTALYTD(SUM(Data[Number_of_Casualties]),'Calendar'[Date])
+![Screenshot (158)](https://github.com/PRATHAMESH9743/ROAD-ACCIDENT-ANALYSIS/assets/154798147/31e767ee-d448-4dd7-89ed-4eee981184e9)
+
+## CY Accidents = TOTALYTD(COUNT(Data[Accident_Index]),'Calendar'[Date])
+![image](https://github.com/PRATHAMESH9743/ROAD-ACCIDENT-ANALYSIS/assets/154798147/583bec5f-41af-468d-a9d5-98e5470546e2)
+
+## PY Casualities = CALCULATE(SUM(Data[Number_of_Casualties]),SAMEPERIODLASTYEAR('Calendar'[Date]))
+![image](https://github.com/PRATHAMESH9743/ROAD-ACCIDENT-ANALYSIS/assets/154798147/f73b637f-0a84-4970-995f-7b4dfeb7046d)
+
+
+## PV Accidents = CALCULATE(COUNT(Data[Accident_Index]),SAMEPERIODLASTYEAR('Calendar'[Date]))
+![Screenshot (161)](https://github.com/PRATHAMESH9743/ROAD-ACCIDENT-ANALYSIS/assets/154798147/612a5030-af11-44be-bf93-09d1eceacf51)
+
+
+## YOY Casualities = ([CY Casualities]-[PY Casualities])/[PY Casualities]
+![image](https://github.com/PRATHAMESH9743/ROAD-ACCIDENT-ANALYSIS/assets/154798147/6b93aec1-58a5-47b3-b718-de8630226b84)
+
+
+## YOY Accidents = ([CY Accidents]-[PV Accidents])/[PV Accidents]
+![image](https://github.com/PRATHAMESH9743/ROAD-ACCIDENT-ANALYSIS/assets/154798147/36278f56-7c74-4a6a-b668-d9b138850cd3)
+
+
 ## DASHBOARD CREATION
 Total Current Year Casualities
 
