@@ -126,6 +126,18 @@ Total Current Year Accidents
 
 ![image](https://github.com/PRATHAMESH9743/ROAD-ACCIDENT-ANALYSIS/assets/154798147/7db7dde6-70c5-4f68-a39e-be308c5d432a)
 
+Current Year Fatal Casualities
+
+![image](https://github.com/PRATHAMESH9743/ROAD-ACCIDENT-ANALYSIS/assets/154798147/8e4e4e7e-4603-4419-ac93-a77cabc95ccc)
+
+Current Year Serious Casualities
+
+![image](https://github.com/PRATHAMESH9743/ROAD-ACCIDENT-ANALYSIS/assets/154798147/907e3eed-03b3-48e6-a1a0-d602d2f41010)
+
+Current Year Slight Casualities
+
+![image](https://github.com/PRATHAMESH9743/ROAD-ACCIDENT-ANALYSIS/assets/154798147/8a01c8b6-87c0-4e8a-abf8-606edbeb8261)
+
 
 
 
