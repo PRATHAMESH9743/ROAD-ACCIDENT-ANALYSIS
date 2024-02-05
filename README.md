@@ -1,4 +1,4 @@
-# ROAD ACCIDENT ANALYSIS - POWER BI 2023
+# ROAD ACCIDENT ANALYSIS - POWER BI 
 ## Introduction to Road Accident Analysis for Power BI Project:
 
 Road accidents pose a significant threat to public safety and result in numerous fatalities and injuries worldwide. Analyzing road accident data is crucial for understanding the contributing factors, identifying patterns, and implementing effective measures to improve road safety. Power BI, a powerful business intelligence tool, can be employed to visually explore and communicate insights derived from road accident data.
